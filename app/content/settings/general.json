@@ -2,8 +2,8 @@
   "title": "Новости ",
   "titleTemplate": "| 8б Столинской государственной гимназии",
   "welcomeText": "# Новости нашего класса есть на этом сайте.\n\nЧто бы прочитать перейдите на вкладку \"Новости\" \n\nА также все новости можно читать на всех наших сайтаx.",
-  "logo": "https://lh3.googleusercontent.com/M3vma6OsodFCs0PLrbL6fDKB2zkzLDMHKsC8Jr0AsAgJAVlQU8DC2YlARMUM2TyGZgWizeiO5u29ImLNwusJZ_4=w16383",
-  "icon": "https://lh3.googleusercontent.com/M3vma6OsodFCs0PLrbL6fDKB2zkzLDMHKsC8Jr0AsAgJAVlQU8DC2YlARMUM2TyGZgWizeiO5u29ImLNwusJZ_4=w16383",
+  "logo": "/images/uploads/logo.svg",
+  "icon": "/images/uploads/favicon.ico",
   "loadingColor": "#0b3765",
   "seoDescription": "",
   "seoMetaImage": ""
